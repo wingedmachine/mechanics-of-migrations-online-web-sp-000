@@ -4,4 +4,7 @@ class CreateArtists < ActiveRecord::Base
 
   def down
   end
+
+  def change
+  end
 end
